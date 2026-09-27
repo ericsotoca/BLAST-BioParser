@@ -1,0 +1,6 @@
+{
+  "name": "Visualiseur & Parser de Résultats BLAST",
+  "description": "Parser de résultats BLAST, extraction de hits significatifs, statistiques avancées et visualisation graphique des alignements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
